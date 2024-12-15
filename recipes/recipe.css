@@ -1,0 +1,25 @@
+.recipes {
+    background: black;
+    color: white;
+}
+
+#title {
+    font-weight: 800;
+    background-color: rgba(128, 18, 18, 0.884);
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 500;
+    background-color: rgba(128, 18, 18, 0.884);
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+img {-ms-flex-item-align: end;}

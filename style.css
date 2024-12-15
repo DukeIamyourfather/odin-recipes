@@ -1,12 +1,18 @@
 
 #title {
     font-weight: 800;
-    background-color: red;
+    background-color: black;
     text-decoration: underline;
     text-align: center;
-    color: white;
+    color: rgb(236, 238, 233);
 }
 
 body {
-    background-color: yellow;
+    background: rgb(65, 3, 3);
 }
+
+li {
+    font-size: 20px;
+    color: white;
+}
+
