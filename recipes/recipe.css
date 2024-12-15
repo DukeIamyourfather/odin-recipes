@@ -17,9 +17,36 @@ h2 {
     text-decoration: underline;
 }
 
-img {
-    height: 300px;
-    width: 300px;
+.dish {
+    height: 200px;
+    width: 200px;
+    
 }
 
-img {-ms-flex-item-align: end;}
+#img1 {
+    float: inline-start;
+    float: top;
+}
+
+#img2 {
+    float: inline-end;
+}
+
+img {
+    height: 37px;
+    width: auto;
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    background-color: rgba(128, 18, 18, 0.884);
+}

@@ -16,3 +16,17 @@ li {
     color: white;
 }
 
+#img1 {
+    float: inline-start;
+    float: top;
+}
+
+#img2 {
+    float: inline-end;
+}
+
+img {
+    height: 37px;
+    width: auto;
+    color: white;
+}
